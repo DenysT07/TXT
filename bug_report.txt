@@ -1,1 +1,29 @@
-I don`t have any examples of bug report, but it is not for a long time =)
+Bug ID: #1
+
+Environment:
+Windows 10 home 21H2, Google Chrome 101.0.4951.67(64)
+
+Preconditions:
+Open link - https://losst.ru/
+
+severity:
+Trivial.
+
+priority:
+Low.
+
+Title:
+The Button "back to top of the page" shows pipeline as a text field after first clik.
+
+STR:
+1)open any page.
+2)skroll down.
+3)press button "back to top of the page" (^).
+
+expected result:
+button don`t change.
+
+result:
+button shows pipeline as a text field.
+
+Attachments: screenshot, video, logs.
